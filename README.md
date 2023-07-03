@@ -14,7 +14,7 @@ in the area of educational robotics.
 + Artigo completo produzido para o TCC-1.
 <br />
 
-+ External and internal images of the**"robo móvel"**, alongside with a state machine, electrical circuit and 3D model;
++ External and internal images of the **"robo móvel"**, alongside with a state machine, electrical circuit and 3D model;
 + External images of the **"painel de comando"**, alongside with an electrical circuit, code and 3D model;
 + Complete article made for TCC-1.
 
