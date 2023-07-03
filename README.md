@@ -7,7 +7,7 @@ Projeto de um kit de robótica educacional sem o uso de telas, utilizando materi
 Project of an educational robotics kit without the use of screens, using easy-to-use materials at a relatively low cost in relation to its complexity. This kit is being developed to form a test base for research
 in the area of educational robotics. 
 
-## Conteudos
+## Conteudos / Contents
 
 + Imagens externas e internas do **"robo móvel"**, além da maquina de estados, circuito elétrico e modelos 3D;
 + Imagens externas do **"painel de comando"**, além do circuito elétrico, código e modelos 3D;
